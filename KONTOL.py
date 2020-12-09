@@ -94,9 +94,9 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "Password Salah"
+            print "Password Salah Kontol"
     else:
-        print "Username Salah"
+        print "Username Salah Kontol"
 
 def login():
     os.system('clear')
@@ -180,7 +180,7 @@ def menu():
 def pilih():
 	unikers = raw_input("\n\033[0;97m >>> \033[0;97m")
 	if unikers =="":
-		print "\033[0;96m[!] \x1b[0;91mIsi yang benar"
+		print "\033[0;96m[!] \x1b[0;91mIsi yang benar kontol"
 		pilih()
 	elif unikers =="1":
 		super()
@@ -193,7 +193,7 @@ def pilih():
 		os.system('rm -rf login.txt')
 		keluar()
 	else:
-		print "\033[0;96m[!] \x1b[0;91mIsi yang benar"
+		print "\033[0;96m[!] \x1b[0;91mIsi yang benar kontol"
 		pilih()
 
 
@@ -210,9 +210,9 @@ def super():
 	os.system('clear')
 	print logo
 	print 42*"\033[0;96m="
-	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Crack dari daftar teman"
-	print "\x1b[0;96m[\x1b[0;92m2\x1b[0;96m]\x1b[0;93m Crack dari teman"
-	print "\x1b[0;96m[\x1b[0;92m3\x1b[0;96m]\x1b[0;93m Crack dari member grup"
+	print "\x1b[0;96m[\x1b[0;92m1\x1b[0;96m]\x1b[0;93m Crack dari daftar teman Bangsat"
+	print "\x1b[0;96m[\x1b[0;92m2\x1b[0;96m]\x1b[0;93m Crack dari teman kontol"
+	print "\x1b[0;96m[\x1b[0;92m3\x1b[0;96m]\x1b[0;93m Crack dari member grup prepeler Burik 8Bit"
 	print "\x1b[0;96m[\x1b[0;92m4\x1b[0;96m]\x1b[0;93m Crack dari file"
 	print "\x1b[0;96m[\x1b[0;91m0\x1b[0;96m]\x1b[0;91m Kembali"
 	pilih_super()
@@ -220,7 +220,7 @@ def super():
 def pilih_super():
 	peak = raw_input("\n\033[0;97m >>> \033[0;97m")
 	if peak =="":
-		print "\033[0;96m[!] \x1b[0;91mIsi yang benar"
+		print "\033[0;96m[!] \x1b[0;91mIsi yang benar kontol"
 		pilih_super()
 	elif peak =="1":
 		os.system('clear')
@@ -282,7 +282,7 @@ def pilih_super():
 	elif peak =="0":
 		menu()
 	else:
-		print "\033[0;96m[!] \x1b[0;91mIsi yang benar"
+		print "\033[0;96m[!] \x1b[0;91mIsi yang benar kontol"
 		pilih_super()
 	
 	print "\033[0;96m[+] \033[0;93mTotal ID \033[0;91m: \033[0;97m"+str(len(id))
