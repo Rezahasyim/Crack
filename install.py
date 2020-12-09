@@ -1,4 +1,4 @@
-# "CARA INSTALL YA VROH😎"
+# CARA INSTALL YA VROH😎
 
 "pkg update && pkg upgrade"
 "pkg install python && pkg install python2"
@@ -8,3 +8,5 @@
 "cd Crack"
 "ls"
 "python2 KONTOL.py"
+"usernam:memek"
+"password:kontol"
