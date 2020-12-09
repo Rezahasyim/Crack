@@ -56,8 +56,8 @@ logo = """
 ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
 
 \033[0;93m╔════════════════════════════════════════════╗
-\033[0;93m \033[0;96m{*} \033[0;93mAuthor  \033[0;93m : \033[0;93mRaiZel \033[0;93m                 
-\033[0;93m \033[0;96m{*} \033[0;93mFacebook \033[0;93m: \033[0;93mRaiZel \033[0;93m                
+\033[0;93m \033[0;96m{*} \033[0;93mAuthor  \033[0;93m : \033[0;93mReza \033[0;93m                 
+\033[0;93m \033[0;96m{*} \033[0;93mFreeFire \033[0;93m: \033[0;93mꜱᴄʀ・ʀᴇᴍᴀʀᴛɪɴ \033[0;93m                
 \033[0;93m \033[0;96m{*} \033[0;93mGithub \033[0;93m: \033[0;93mhttps://github.com/Rezahasyim \033[0;93m                
 \033[0;93m╚════════════════════════════════════════════╝"""
 
@@ -87,9 +87,9 @@ CorrectPassword = "kontol"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[0;96m{★} \x1b[0;93mUSERNAME TOOLS INI \x1b[0;96mRemartin ")
+    username = raw_input("\033[0;96m{★} \x1b[0;93mUSERNAME TOOLS INI \x1b[0;96m︻氕言テ一一一 ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[0;96m{★} \x1b[0;93mPASSWORD TOOLS INI \x1b[0;96mRemartin ")
+    	password = raw_input("\033[0;96m{★} \x1b[0;93mPASSWORD TOOLS INI \x1b[0;96m︻氕言テ一一一 ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
